@@ -1,0 +1,41 @@
+{"Boletos": [
+
+  { 
+
+          "titleCode"        :""   ,
+
+          "cpf"              :"" ,
+
+          "Carteirinha"      :"",
+
+          "ControlNumber"    :"",
+
+          "createdDate"      :"",
+
+          "dueDate"          :"",
+
+          "paymentDate"      :"",
+
+          "interestAmount"   :0,
+
+          "fineAmount"       :0,
+
+          "competenceMonth"  :"",
+
+          "statusBankSlip"   :"",
+
+          "titleAmount"      :0,
+
+          "paidAmount"       :0,
+
+          "url"              :"",
+
+          "valorComDesconto" :0,
+
+          "tipodeContratacao":""
+
+  }
+
+]
+
+}
